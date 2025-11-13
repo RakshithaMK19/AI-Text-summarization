@@ -1,0 +1,5 @@
+{
+  "name": "AI Text Summarizer",
+  "description": "A browser-based tool that uses the Gemini API to summarize long articles into short, readable summaries. Users can paste text, choose the desired summary length, and get an AI-generated summary.",
+  "requestFramePermissions": []
+}
